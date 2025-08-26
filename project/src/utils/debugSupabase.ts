@@ -112,6 +112,7 @@ export const testBookingInsert = async () => {
       price_per_day: 100,
       days: 1,
       total_price: 100,
+      rental_type: 'daily',
       status: 'test'
     };
 

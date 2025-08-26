@@ -61,7 +61,7 @@ const HomePage = () => {
           <div className="flex justify-center items-center text-center">
             <span className="animate-pulse mr-2">🔥</span>
             <p className="font-bold text-sm sm:text-base">
-              LIMITED TIME OFFER: 10% OFF on all Pulsar bikes when booked for 24 hours! 
+              LIMITED TIME OFFER: 10% OFF on Pulsar bikes + Get 35% OFF on WEEKLY BOOKINGS! 
               <Link to="/sports-bikes" className="underline hover:text-white ml-2 whitespace-nowrap">
                 Book Now
               </Link>

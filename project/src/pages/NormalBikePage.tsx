@@ -93,6 +93,24 @@ const NormalBikePage = () => {
   return (
     <>
       <div className="min-h-screen bg-gray-900 pt-20">
+        {/* Promotional Banner */}
+        <div className="bg-gradient-to-r from-green-500 to-blue-500 text-white py-4 mb-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex flex-col sm:flex-row justify-center items-center text-center gap-2">
+              <div className="flex items-center">
+                <span className="animate-pulse mr-2 text-xl">⚡</span>
+                <p className="font-bold text-lg">WEEKLY SPECIAL:</p>
+              </div>
+              <p className="font-semibold">
+                Book any Normal Bike for a WEEK and get 35% OFF!
+              </p>
+              <div className="bg-black text-white px-3 py-1 rounded-full text-sm font-bold animate-bounce">
+                Save Big
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Header */}
           <div className="text-center mb-12">
