@@ -22,7 +22,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-yellow-400" />
-                <span className="text-sm text-gray-300"></span>
+                <span className="text-sm text-gray-300">riderental68@gmail.com</span>
               </div>
             </div>
           </div>
@@ -61,8 +61,8 @@ const Footer = () => {
               <div className="flex items-start space-x-2">
                 <MapPin className="h-4 w-4 text-yellow-400 mt-1" />
                 <span className="text-sm text-gray-300">
-                   Kotri Kalan, Ashta, Near, Indore Road, ,<br />
-                   Bhopal, Madhya Pradesh 466114
+                   VIT Bhopal, Kothri Kalan, Sehore,<br />
+                   Madhya Pradesh
                 </span>
               </div>
               <div className="flex items-center space-x-2">
@@ -71,7 +71,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-yellow-400" />
-                <span className="text-sm text-gray-300"></span>
+                <span className="text-sm text-gray-300">riderental68@gmail.com</span>
               </div>
             </div>
           </div>

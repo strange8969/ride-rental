@@ -286,7 +286,7 @@ const ContactPage: React.FC = () => {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-white">Phone</h3>
                     <p className="text-gray-400">+91 8827326825</p>
-                    <p className="text-xs text-gray-500 mt-1">Mon-Sat, 9am-7pm</p>
+                    <p className="text-xs text-gray-500 mt-1">All days, 9am-9pm</p>
                   </div>
                 </div>
                 
@@ -296,7 +296,7 @@ const ContactPage: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-white">Email</h3>
-                    <p className="text-gray-400">riderental@example.com</p>
+                    <p className="text-gray-400">riderental68@gmail.com</p>
                     <p className="text-xs text-gray-500 mt-1">We'll respond within 24 hours</p>
                   </div>
                 </div>
@@ -307,7 +307,7 @@ const ContactPage: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-white">Location</h3>
-                    <p className="text-gray-400">123 Bike Street, City Center</p>
+                    <p className="text-gray-400">VIT Bhopal, Kothri Kalan, Sehore</p>
                     <p className="text-xs text-gray-500 mt-1">Visit our rental office</p>
                   </div>
                 </div>
@@ -318,8 +318,7 @@ const ContactPage: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-white">Business Hours</h3>
-                    <p className="text-gray-400">Monday - Saturday: 9:00 AM - 7:00 PM</p>
-                    <p className="text-gray-400">Sunday: Closed</p>
+                    <p className="text-gray-400">All Days: 9:00 AM - 9:00 PM</p>
                   </div>
                 </div>
               </div>
@@ -330,13 +329,13 @@ const ContactPage: React.FC = () => {
               <h2 className="text-2xl font-bold text-white mb-6">Find Us</h2>
               <div className="w-full h-64 rounded-lg overflow-hidden">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.272743225992!2d75.8185779!3d22.5701593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcad8be6f0c7%3A0x89637bf334a85f6f!2sKhajrana%2C%20Indore%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1629556234334!5m2!1sen!2sin" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.8661435195624!2d77.2342!3d23.2884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c42de6c4b7c85%3A0x5c4ab5b2b3b8b9c!2sVIT%20Bhopal%2C%20Kothri%20Kalan%2C%20Sehore%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1629556234334!5m2!1sen!2sin" 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
                   allowFullScreen={true} 
                   loading="lazy"
-                  title="Location Map"
+                  title="VIT Bhopal Location Map"
                   className="rounded-lg"
                 ></iframe>
               </div>
