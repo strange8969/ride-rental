@@ -32,8 +32,7 @@ async function testConnection() {
     
     const { data, error } = await supabase
       .from('bookings')
-      .select('count(*)')
-      .limit(1);
+      .select('*', { count: 'exact', head: true });
       
     if (error) {
       console.error(`\nERROR: ${error.message}`);
