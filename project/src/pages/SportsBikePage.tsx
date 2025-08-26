@@ -91,7 +91,7 @@ const SportsBikePage = () => {
                 <p className="font-bold text-lg">SPECIAL OFFER:</p>
               </div>
               <p className="font-semibold">
-                Get 10% OFF on all Pulsar bikes when booked for 24 hours!
+                Get 10% OFF on Pulsar bikes + 35% OFF on WEEKLY BOOKINGS!
               </p>
               <div className="bg-black text-white px-3 py-1 rounded-full text-sm font-bold animate-bounce">
                 Limited Time

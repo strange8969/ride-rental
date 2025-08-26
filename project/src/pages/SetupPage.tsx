@@ -67,6 +67,9 @@ const SetupPage = () => {
             category: 'Test',
             model: 'Test Model',
             price_per_day: 500,
+            days: 1,
+            total_price: 500,
+            rental_type: 'daily',
             status: 'test'
           }])
           .select();
